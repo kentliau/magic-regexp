@@ -48,7 +48,7 @@
     "test:types": "tsc --noEmit"
   },
   "dependencies": {
-    "estree-walker": "^3.0.1",
+    "estree-walker": "^2.0.2",
     "magic-string": "^0.30.0",
     "mlly": "^1.0.0",
     "type-level-regexp": "~0.1.16",
